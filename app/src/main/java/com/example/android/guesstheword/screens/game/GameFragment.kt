@@ -66,7 +66,7 @@ class GameFragment : Fragment() {
         return binding.root
 
     }
-
+//
     /**
      * Resets the list of words and randomizes the order
      */
